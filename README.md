@@ -19,4 +19,4 @@ ShareSphere connects donors with verified NGOs to repurpose surplus items like c
 3. Update your database connection in `config.php`.
 4. Run on your local server (XAMPP/WAMP).
 
-*Project developed by [तुझे नाव], guided by Unified Mentor Pvt. Ltd.*
+*Project developed by [Shraddha Satpal Munjawar], guided by Unified Mentor Pvt. Ltd.*
