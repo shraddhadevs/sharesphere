@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family: Poppins, sans-serif;
+    background:#F8FAFC;
+    color:#1F2937;
+}
+.btn-primary{
+    background:#7C3AED;
+    border:none;
+}
+
+.btn-primary:hover{
+    background:#6D28D9;
+}
